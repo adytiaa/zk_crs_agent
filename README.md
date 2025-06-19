@@ -1,5 +1,8 @@
 # clinical research agent for statistical validation, and federated learning, ZKPs Masumi-Kodosumi framework
 
+![image](federated_kodo.png)
+![image_2](federated_kodosumi.png)
+
 ## Overview
 This project implements a privacy-preserving clinical research backend system using:
 - **Zero-Knowledge Proofs** (via ZoKrates circuits)
