@@ -1,10 +1,11 @@
-# Clinical Research with Privacy Preservation
+# clinical research agent for statistical validation, and federated learning, ZKPs Masumi-Kodosumi framework
 
 ## Overview
 This project implements a privacy-preserving clinical research backend system using:
 - **Zero-Knowledge Proofs** (via ZoKrates circuits)
 - **Crew AI agents** for task orchestration
 - **Masumi Network** for secure communication and computation
+- **kodosumi ** for efefctive agent handling
 
 ## Structure
 - `agents/`: Crew AI agents handling coordination, computation, and validation.
