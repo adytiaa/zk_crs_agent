@@ -7,10 +7,12 @@ This project implements a privacy-preserving clinical research backend system us
 - **Masumi Network** for secure communication and computation
 - **kodosumi ** for efefctive agent handling
 
+
 ## Structure
 - `agents/`: Crew AI agents handling coordination, computation, and validation.
 - `zk_circuits/`: Zero-Knowledge Proof circuits and handlers.
 - `masumi_integration/`: Communication with the Masumi Network.
+- "federated-kodosumi/":   agent traceability and verification
 
 ## How to Use
 1. Setup ZoKrates and compile circuits.
